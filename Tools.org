@@ -1,0 +1,14 @@
+#+title: Tools for Ethical Hacking
+#+description: This tools will be install in my machine(Arch linux) for my ethical hacking
+#+author: Touhidul Shawan
+
+* Information Gathering
+1. nslookup
+2. whois
+3. whatweb
+4. theHarvester
+5. red_hawk (#github)
+6. sherlock
+
+* Scanning
+1. nmap
