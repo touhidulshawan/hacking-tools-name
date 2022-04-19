@@ -3,12 +3,14 @@
 #+author: Touhidul Shawan
 
 * Information Gathering
-1. nslookup
-2. whois
-3. whatweb
-4. theHarvester
-5. red_hawk (#github)
-6. sherlock
+1. nslookup (y)
+2. whois (y)
+3. whatweb (y)
+** Install through github
+1. theHarvester (n)
+2. red_hawk (#github) (n)
+3. sherlock (n)
 
 * Scanning
-1. nmap
+1. netdiscover (y)
+2. nmap
