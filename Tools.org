@@ -7,14 +7,15 @@
 2. whois (y)
 3. whatweb (y)
 ** Install through github
-1. theHarvester (n)
-2. red_hawk (#github) (n)
-3. sherlock (n)
+1. theHarvester
+2. red_hawk
+3. sherlock
 
-* Scanning
+* Scanning & Vulnerability Analysis
 1. netdiscover (y)
 2. nmap
 3. Searchsploit (exploitdb) (y)
+4. Nessus (n)
 
 * Sniffing & Spoofing
 1. wireshark (y)
