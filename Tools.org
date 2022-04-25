@@ -3,22 +3,22 @@
 #+author: Touhidul Shawan
 
 * Information Gathering
-1. nslookup (y)
-2. whois (y)
-3. whatweb (y)
++ nslookup (y)
++ whois (y)
++ whatweb (y)
 ** Install through github
-1. theHarvester
-2. red_hawk
-3. sherlock
++ theHarvester
++ red_hawk
++ sherlock
 
 * Scanning & Vulnerability Analysis
-1. netdiscover (y)
-2. nmap
-3. Searchsploit (exploitdb) (y)
-4. Nessus (n)
++ netdiscover (y)
++ nmap
++ Searchsploit (exploitdb) (y)
++ Nessus (n)
 
 * Sniffing & Spoofing
-1. wireshark (y)
++ wireshark (y)
 
 * Exploitation
-1. Metasploit (y)
++ Metasploit (y)
