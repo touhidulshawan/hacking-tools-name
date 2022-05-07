@@ -22,3 +22,6 @@
 
 * Exploitation
 + Metasploit (y)
+
+* Web
++ Burpsuite (y)
