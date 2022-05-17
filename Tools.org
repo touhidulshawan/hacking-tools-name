@@ -25,3 +25,7 @@
 
 * Web
 + Burpsuite (y)
+
+* Wireless
++ Wifite 👇
+  + reaver, bully, cowpatty, macchanger, hashcat, hcxdumptool, hcxpcapngtool[in arch called hcxtools], pyrit
