@@ -32,3 +32,6 @@
 
 * Wordlist
 + crunch
+
+* Cracker
++ Hydra
