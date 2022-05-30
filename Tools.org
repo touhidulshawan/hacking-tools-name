@@ -25,13 +25,17 @@
 
 * Web
 + Burpsuite (y)
++ Dirb (y [yay])
++ Dirbuster(y [yay])
++ Dirbuster-wordlists (y [yay])
 
 * Wireless
 + Wifite 👇
   + reaver, bully, cowpatty, macchanger, hashcat, hcxdumptool, hcxpcapngtool[in arch called hcxtools], pyrit
 
 * Wordlist
-+ crunch
++ Crunch [wordlists generator]
++ Rockyou
 
 * Cracker
 + Hydra
