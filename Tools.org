@@ -28,6 +28,7 @@
 + Dirb (y [yay])
 + Dirbuster(y [yay])
 + Dirbuster-wordlists (y [yay])
++ Nikto (y)
 
 * Wireless
 + Wifite 👇
