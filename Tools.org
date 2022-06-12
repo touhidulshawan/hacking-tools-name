@@ -19,6 +19,8 @@
 
 * Sniffing & Spoofing
 + wireshark (y)
++ hping (y)
++ rshijack [shijack] (y)
 
 * Exploitation
 + Metasploit (y)
