@@ -43,3 +43,6 @@
 * Cracker
 + Hydra
 + John
+
+* Firewall & IDs
++ Snort (y [yay])
