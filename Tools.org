@@ -46,3 +46,6 @@
 
 * Firewall & IDs
 + Snort (y [yay])
+
+* Cryptography & Steganography
++ rot13(y [yay])
