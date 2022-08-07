@@ -49,3 +49,6 @@
 
 * Cryptography & Steganography
 + rot13(y [yay])
+
+* Sql Injection
++ sqlmap
