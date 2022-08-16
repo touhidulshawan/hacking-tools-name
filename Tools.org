@@ -32,6 +32,10 @@
 + Dirbuster-wordlists (y [yay])
 + Nikto (y)
 
+* Web Application Security Reconnaissance
++ httrack
++ skipfish
+
 * Wireless
 + Wifite 👇
   + reaver, bully, cowpatty, macchanger, hashcat, hcxdumptool, hcxpcapngtool[in arch called hcxtools], pyrit
