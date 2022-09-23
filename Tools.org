@@ -32,6 +32,10 @@
 + Dirbuster-wordlists (y [yay])
 + Nikto (y)
 
+** Subdomain enumeration
++ sublist3r-git (y [yay])
++ ffuf-bin (y [yay])
+
 * Web Application Security Reconnaissance
 + httrack
 + skipfish
