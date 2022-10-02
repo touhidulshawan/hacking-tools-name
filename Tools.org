@@ -39,6 +39,7 @@
 * Web Application Security Reconnaissance
 + httrack
 + skipfish
++ Shodan
 
 * Wireless
 + Wifite 👇
