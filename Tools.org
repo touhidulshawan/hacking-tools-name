@@ -27,19 +27,23 @@
 
 * Web
 + Burpsuite (y)
-+ Dirb (y [yay])
-+ Dirbuster(y [yay])
-+ Dirbuster-wordlists (y [yay])
 + Nikto (y)
++ Shodan
++ httprobe
++ waybackurls
++ amass
 
-** Subdomain enumeration
+* Content Discovery & subdomain
++ dirb
++ dirbuster
++ gobuster
++ feroxbuster
 + sublist3r-git (y [yay])
 + ffuf-bin (y [yay])
 
 * Web Application Security Reconnaissance
 + httrack
 + skipfish
-+ Shodan
 
 * Wireless
 + Wifite 👇
